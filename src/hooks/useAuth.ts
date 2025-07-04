@@ -67,6 +67,7 @@ export function useAuth() {
         data: {
           full_name: fullName,
         },
+        emailRedirectTo: "https://condominio-gourmet-f8iyx6osb-alainjpdevs-projects.vercel.app/dashboard",
       },
     });
 
