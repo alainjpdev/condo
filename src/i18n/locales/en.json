@@ -1,0 +1,234 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "actions": "Actions",
+    "details": "Details",
+    "status": "Status",
+    "date": "Date",
+    "time": "Time",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "description": "Description",
+    "amount": "Amount",
+    "total": "Total",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "paid": "Paid",
+    "overdue": "Overdue"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "forgotPassword": "Forgot your password?",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signInHere": "Sign in here",
+    "signUpHere": "Sign up here",
+    "invalidCredentials": "Invalid credentials",
+    "passwordTooShort": "Password must be at least 6 characters",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "emailRequired": "Email is required",
+    "nameRequired": "Name is required"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "payments": "Payments",
+    "reservations": "Reservations",
+    "incidents": "Incidents",
+    "providers": "Providers",
+    "votes": "Votes",
+    "admin": "Administration",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "landing": {
+    "hero": {
+      "title": "Welcome to Gourmet PA",
+      "subtitle": "Modern condominium management system",
+      "description": "Manage payments, reservations, incidents and more from a single platform. Designed for residents, administrators and providers.",
+      "ctaLogin": "Login",
+      "ctaRegister": "Register",
+      "ctaLearnMore": "Learn More"
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Everything you need to manage your condominium",
+      "payment": {
+        "title": "Payment Management",
+        "description": "Control monthly fees, generate reports and maintain a detailed history of all payments."
+      },
+      "reservations": {
+        "title": "Online Reservations",
+        "description": "Book common areas easily and quickly. Check availability in real time."
+      },
+      "incidents": {
+        "title": "Incident Reporting",
+        "description": "Report problems and track them until resolution. Connect with certified providers."
+      },
+      "votes": {
+        "title": "Digital Voting",
+        "description": "Participate in important condominium decisions transparently and securely."
+      }
+    },
+    "stats": {
+      "title": "Trusted by Communities",
+      "residents": "Residents",
+      "units": "Units",
+      "providers": "Providers",
+      "satisfaction": "Satisfaction"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "overview": "Overview",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "stats": {
+      "totalUnits": "Total Units",
+      "pendingPayments": "Pending Payments",
+      "activeReservations": "Active Reservations",
+      "openIncidents": "Open Incidents"
+    }
+  },
+  "payments": {
+    "title": "Payment Management",
+    "myPayments": "My Payments",
+    "paymentHistory": "Payment History",
+    "pendingPayments": "Pending Payments",
+    "dueDate": "Due Date",
+    "unitName": "Unit",
+    "monthlyFee": "Monthly Fee",
+    "payNow": "Pay Now",
+    "markAsPaid": "Mark as Paid",
+    "uploadReceipt": "Upload Receipt",
+    "noPayments": "No payments registered",
+    "paymentSuccess": "Payment registered successfully",
+    "paymentError": "Error processing payment"
+  },
+  "reservations": {
+    "title": "Common Area Reservations",
+    "myReservations": "My Reservations",
+    "newReservation": "New Reservation",
+    "availableAreas": "Available Areas",
+    "selectArea": "Select Area",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "notes": "Additional Notes",
+    "capacity": "Capacity",
+    "hourlyRate": "Hourly Rate",
+    "usageRules": "Usage Rules",
+    "reservationSuccess": "Reservation created successfully",
+    "reservationError": "Error creating reservation",
+    "noReservations": "You have no registered reservations"
+  },
+  "incidents": {
+    "title": "Incident Management",
+    "myIncidents": "My Incidents",
+    "newIncident": "Report Incident",
+    "incidentTitle": "Incident Title",
+    "incidentDescription": "Detailed Description",
+    "selectUnit": "Select Unit",
+    "attachImage": "Attach Image",
+    "assignProvider": "Assign Provider",
+    "resolutionNotes": "Resolution Notes",
+    "reportIncident": "Report Incident",
+    "updateStatus": "Update Status",
+    "statusNew": "New",
+    "statusInProgress": "In Progress",
+    "statusResolved": "Resolved",
+    "incidentSuccess": "Incident reported successfully",
+    "incidentError": "Error reporting incident",
+    "noIncidents": "No incidents registered"
+  },
+  "providers": {
+    "title": "Service Providers",
+    "category": "Category",
+    "rating": "Rating",
+    "contact": "Contact",
+    "available": "Available",
+    "notAvailable": "Not Available",
+    "categories": {
+      "electricista": "Electrician",
+      "plomero": "Plumber",
+      "limpieza": "Cleaning",
+      "jardineria": "Gardening",
+      "seguridad": "Security",
+      "otros": "Others"
+    },
+    "noProviders": "No providers registered"
+  },
+  "votes": {
+    "title": "Active Votes",
+    "myVotes": "My Votes",
+    "activeVotes": "Active Votes",
+    "voteNow": "Vote Now",
+    "voteSubmitted": "Vote Submitted",
+    "selectOption": "Select an option",
+    "submitVote": "Submit Vote",
+    "voteSuccess": "Vote registered successfully",
+    "voteError": "Error registering vote",
+    "votingEnds": "Voting ends",
+    "noVotes": "No active votes"
+  },
+  "admin": {
+    "title": "Administration Panel",
+    "users": "Users",
+    "units": "Units",
+    "areas": "Common Areas",
+    "reports": "Reports",
+    "manageUsers": "Manage Users",
+    "manageUnits": "Manage Units",
+    "manageAreas": "Manage Areas",
+    "createUser": "Create User",
+    "createUnit": "Create Unit",
+    "createArea": "Create Area",
+    "userRole": "User Role",
+    "unitType": "Unit Type",
+    "floor": "Floor",
+    "monthlyFee": "Monthly Fee",
+    "resident": "Resident",
+    "assignResident": "Assign Resident"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "profileUpdated": "Profile updated successfully",
+    "passwordChanged": "Password changed successfully"
+  },
+  "roles": {
+    "admin": "Administrator",
+    "residente": "Resident",
+    "proveedor": "Provider"
+  },
+  "units": {
+    "types": {
+      "departamento": "Apartment",
+      "local": "Store",
+      "oficina": "Office"
+    }
+  }
+}
